@@ -1,0 +1,3 @@
+---
+title: 'Renege Model'
+description: ""
